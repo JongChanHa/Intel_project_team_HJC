@@ -1,4 +1,3 @@
-##########2023-08-17 11:00 엄기천update ##########
 import os
 import RPi_I2C_driver 
 
