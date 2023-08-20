@@ -15,7 +15,7 @@ $ python3 main.py
 ##### LCD와 SPEAKER로 사용자에게 알림기능파일
 
 ```
-class Message():
+class Message:
   - welcome_Pilleat(): 웰컴필잇!!!
   - fill_Pill(): 트레이에 알약을 채워달라고 알려주는 기능
   - eatTime_Pill(): 약을 복용해야하는 시간을 알려주는 기능
