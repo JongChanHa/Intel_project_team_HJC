@@ -1,18 +1,21 @@
 # pill_eat - ki_thousand
 
-실행파일이름 : main.py
+## 필요한 패키지 설치 : requirements.txt
+```
+$ pip install -r requirements.txt
+```
+
+## 실행파일이름 : main.py
 
 ```
 $ python3 main.py
 ```
 
 
-## pill_eat 기능설명
+## class별 pill_eat 기능설명
 
-### class별 기능설명 
-
-#### Message.py
-##### LCD와 SPEAKER로 사용자에게 알림기능파일
+### Message.py
+#### LCD와 SPEAKER로 사용자에게 알림기능파일
 
 ```
 class Message:
@@ -25,8 +28,8 @@ class Message:
   - display_Time_now(): 현재시간을 표시해주는 기능
 ```
 
-#### led.py
-##### LED와 SENSOR를 제어하는 파일
+### led.py
+#### LED와 SENSOR를 제어하는 파일
 
 ```
 class led:
@@ -38,8 +41,8 @@ class sensor:
 ```
 
 
-#### detect_Pill.py
-##### AI모델을 사용하는 파일
+### detect_Pill.py
+#### AI모델을 사용하는 파일
 
 ```
 class analysis_pill:
