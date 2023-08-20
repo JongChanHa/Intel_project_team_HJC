@@ -1,4 +1,4 @@
-#pill_eat - ki_thousand
+# pill_eat - ki_thousand
 
 실행파일이름 : main.py
 
@@ -7,11 +7,12 @@ $ python3 main.py
 '''
 
 
-##pill_eat 기능설명
+## pill_eat 기능설명
 
-###class별 기능설명 
+### class별 기능설명 
 Message.py
 LCD와 SPEAKER로 사용자에게 알림기능파일
+
 '''
 class Message():
 - welcome_Pilleat(): 웰컴필잇!!!
@@ -25,6 +26,7 @@ class Message():
 
 led.py
 LED와 SENSOR를 제어하는 파일
+
 '''
 class led:
 - led_on(): LED를 켜는기능 (주로 알약분석시 활용)
@@ -37,6 +39,7 @@ class sensor:
 
 detect_Pill.py
 AI모델을 사용하는 파일
+
 '''
 class analysis_pill:
 - analysis_Pill(): TRAY에 있는 알약을 분석하는기능 (LCD와 SPEAKER출력도 포함되어있음)
