@@ -1,4 +1,4 @@
-# 팀_나지금필받았어
+# 팀_나지금 Pill받았어
 약 먹는 어르신들을 위한 AI 복약 관리사
 
 
@@ -55,6 +55,10 @@
 팀원 한재욱(개발자, 임베디드 개발)
 
 ​팀원 엄기천(개발자, 알고리즘 개발)
+
+## 시연 영상, 제작영상 URL
+• 제작영상 : https://www.youtube.com/watch?v=2JGMzi57F4s&t=31s
+• 시연영상 : https://www.youtube.com/shorts/7cosngZtbhQ
 
 
 ## 그 외 기타 사항 - SW dependency, 동작 환경, 제한 사항 등을 기술
