@@ -61,6 +61,9 @@
 • 제작영상 : https://www.youtube.com/watch?v=2JGMzi57F4s&t=31s
 • 시연영상 : https://www.youtube.com/shorts/7cosngZtbhQ
 
+## 보조기기 열린플랫폼 URL
+• http://www.nrc.go.kr/at_rd/web/lay2/program/S1T88C89/openPlatform/deviceInfo/view.do?open_platform_seq=467&start_dt=&end_dt=&keyword=&category1=&category2=&category3=&rows=6&cpage=2&order_type=OPEN_PLATFORM_SEQ
+
 
 ## 그 외 기타 사항 - SW dependency, 동작 환경, 제한 사항 등을 기술
 SW dependency - 
