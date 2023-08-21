@@ -71,3 +71,12 @@ SW dependency -
 동작환경 - 라즈베리파이4 보드
 
 제한사항 - 학습된 알약 이미지에 한해서 검출 가능
+
+
+
+## 대회참가 스케치
+![KakaoTalk_20230821_101553788](https://github.com/kithousand/Medication-management-aids/assets/96045246/4a321967-28f1-4213-b55d-86827c6117cd)
+![KakaoTalk_20230821_101639088](https://github.com/kithousand/Medication-management-aids/assets/96045246/5b33575e-cbf0-43a7-851e-a46f619ff0b3)
+![KakaoTalk_20230821_101649990](https://github.com/kithousand/Medication-management-aids/assets/96045246/ca41c00f-4d7e-41b4-8918-0f85e2a14726)
+
+
