@@ -1,4 +1,4 @@
-# pill_eat - ki_thousand
+# pill_eat_source - ki_thousand
 
 ## 동작환경
 OS : Debian GNU/Linux 11 이상
