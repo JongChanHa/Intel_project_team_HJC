@@ -1,5 +1,9 @@
 # pill_eat - ki_thousand
 
+## 동작환경
+OS : Debian GNU/Linux 11 이상
+Python : 3.9.2 이상
+
 ## 필요한 패키지 설치 : requirements.txt
 ```
 $ pip install -r requirements.txt
